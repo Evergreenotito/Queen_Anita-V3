@@ -9,8 +9,8 @@ global.location = "Nigeria, Lagos" //ur location
 
 //new
 global.botname = 'QUEEN_ANITA-V3' //ur bot name
-global.ownernumber = ' ' //ur owner number
-global.ownername = "DAVID CYRIL"  //ur owner name
+global.ownernumber = '2348168185773' //ur owner number
+global.ownername = "EVERGREEN"  //ur owner name
 global.websitex = "http://www.youtube.com/@DavidCyril_TECH"
 global.wagc = "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"
 global.themeemoji = '👸'
@@ -20,7 +20,7 @@ global.packname = "STICKER BY"
 global.author = "QUEEN_ANITA-V3"
 global.creator = "2347043759577@s.whatsapp.net"
 global.xprefix = "."
-global.premium = ["2347043759577"] // Premium User
+global.premium = ["2348168185773"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -30,7 +30,7 @@ global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = true //auto status/story view
+global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg
